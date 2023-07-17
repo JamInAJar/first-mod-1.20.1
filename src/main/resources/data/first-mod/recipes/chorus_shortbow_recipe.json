@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:shulker_box"
+    },
+    "X": {
+      "item": "firstmod:endstring"
+    },
+    "w": {
+  "item": "minecraft:end_rod"}
+  },
+  "!": {
+    "item": "minecraft:popped_chorus_fruit"
+  },
+  "e": {
+    "item": "minecraft:eye_of_ender"
+  },
+  "pattern": [
+    "!wX",
+    "#eX",
+    "!wX"
+  ],
+  "result": {
+    "item": "firstmod:chorus_shortbow"
+  },
+  "show_notification": true
+}
