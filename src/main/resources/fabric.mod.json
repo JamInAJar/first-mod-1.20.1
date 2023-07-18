@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "first-mod",
+	"id": "firstmod",
 	"version": "${version}",
 	"name": "First Mod",
 	"description": "This is the first mod made by me!",
@@ -26,7 +26,7 @@
 		]
 	},
 	"mixins": [
-		"first-mod.mixins.json"
+		"firstmod.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.14.21",
